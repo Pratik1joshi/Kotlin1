@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">profileactivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_card_example">CardExample</string>
+</resources>
