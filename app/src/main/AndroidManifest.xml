@@ -13,6 +13,11 @@
         android:theme="@style/Theme.Profileactivity"
         tools:targetApi="31">
         <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.Profileactivity" />
+        <activity
             android:name=".CardExample"
             android:exported="false"
             android:label="@string/title_activity_card_example"
